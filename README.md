@@ -2,12 +2,20 @@
 
 # Python Projects Summary
 
-this repository contain a summary all projects (in english and spanish) developed by Geomar Perales in Python from university to actually.
+this repository contain a summary all projects (in english and spanish) developed by Geomar Perales in Python, from university to actually for multiple activities.
 
 ## Contents
 
+the repository contain following projects:
 
-## Acknowledgments 
+### - 2020
 
+##### ***Library***
 
-## References
+  - aedR (Spanish): AedR es es una librería que contiene algunas herramientas para realizar análisis exploratorio de datos hidrológicos.
+
+### - 2018
+
+- ***Scripts***
+
+  - Probability Distributions for hydrology with Python (English): scripts developed for statistical hydrology (Course) - IMF - UNMSM.
